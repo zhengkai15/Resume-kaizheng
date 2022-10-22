@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/zhengkai15/Resume-kaizheng/main/pic/%E6%B5%B7%E9%A9%AC%E4%BD%93%E4%B8%80%E5%AF%B8%E7%99%BD%E5%BA%95.jpg" alt="drawing" width="100" align=''/>
                              Tel/Wechat:18143754266
-                             Email:15652108@qq.com
+                             Email:156252108@qq.com
 
 ## 学历
 
@@ -70,7 +70,7 @@ CSDN：
 
 <img src="https://raw.githubusercontent.com/zhengkai15/Resume-kaizheng/main/pic/%E6%B5%B7%E9%A9%AC%E4%BD%93%E4%B8%80%E5%AF%B8%E7%99%BD%E5%BA%95.jpg" alt="drawing" width="100" align=''/>
                              Tel/Wechat:18143754266
-                             Email:15652108@qq.com
+                             Email:156252108@qq.com
 
 ## Education
 
